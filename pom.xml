@@ -13,7 +13,7 @@
     <artifactId>monetka.back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>telegram</name>
+    <name>back</name>
     <description>Monetka App Backend</description>
 
     <properties>
