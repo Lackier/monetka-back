@@ -1,11 +1,11 @@
-package com.lackier.monetka.back;
+package com.lackier.monetka.backend.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MonetkaBackApp {
+public class MonetkaBackendApp {
 	public static void main(String[] args) {
-		SpringApplication.run(MonetkaBackApp.class, args);
+		SpringApplication.run(MonetkaBackendApp.class, args);
 	}
 }
